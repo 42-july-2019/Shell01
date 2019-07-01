@@ -1,0 +1,5 @@
+Credentials cache: API:1B2F06E3-A0C8-4076-9AF9-F502B4302F1E
+        Principal: alabreui@42.FR
+
+  Issued                Expires               Principal
+Jul  1 11:38:32 2019  Jul  8 11:38:29 2019  krbtgt/42.FR@42.FR
