@@ -1,1 +1,1 @@
-find . ! -regex '\.\/\.git.*' | wc -l
+find . ! -regex '\.\/\.git.*' | wc -l | sed 's/ //g'
